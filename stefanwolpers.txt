@@ -1,6 +1,8 @@
 Stand-up Anti-Patterns:
 
-Typically, a good Scrum team needs about five to ten minutes for a stand-up. Given this short period, it is interesting to observe that the daily stand-up is the Scrum ceremony with the highest potential anti-pattern density. The anti-patterns range from behaviors driven by dysfunctional teams to apparent failures at an organizational level.
+Typically, a good Scrum team needs about five to ten minutes for a stand-up. Given this short period, it is interesting 
+to observe that the daily stand-up is the Scrum ceremony with the highest potential anti-pattern density. 
+The anti-patterns range from behaviors driven by dysfunctional teams to apparent failures at an organizational level.
 
 My favorite stand-up anti-patterns are as follows:
 
