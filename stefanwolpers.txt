@@ -4,21 +4,35 @@ Typically, a good Scrum team needs about five to ten minutes for a stand-up. Giv
 
 My favorite stand-up anti-patterns are as follows:
 
-    > The stand-up is a status report meeting, and team members are waiting in line to “report” progress to the Scrum master, the product owner, or maybe even a stakeholder.
+    > The stand-up is a status report meeting, and team members are waiting in line to “report” progress to the 
+      Scrum master, the product owner, or maybe even a stakeholder.
     > Updates are generic with little or no value to others (“Yesterday, I worked on X-123. Today, I will work on X-129”).
     > Discussions are triggered to solve problems, instead of parking those so they can be addressed after the stand-up.
-    > The team hijacks the stand-up to discuss new requirements, to refine user stories, or to have a sort of (Sprint) planning meeting.
-    > A team member experiences difficulties in accomplishing an issue over several consecutive days, and nobody is offering to help (this a sign that people either do not trust each other or that the utilization of the team is maximized).
-    > Team members violate the time-boxing, starting monologs (60 to 90 seconds per team member should be more than enough time on air).
-    > A few team members are commenting on every issue (usually, this is not just a waste of time, but also patronizing as well as annoying).
-    > Other team members are talking while someone is sharing his or her progress with the team (similarly irritating is the need to use speak tokens among adults to avoid this behavior). 
+    > The team hijacks the stand-up to discuss new requirements, to refine user stories, or to have a sort of (Sprint) 
+      planning meeting.
+    > A team member experiences difficulties in accomplishing an issue over several consecutive days, and nobody is 
+      offering to help (this a sign that people either do not trust each other or that the utilization of the team is 
+      maximized).
+    > Team members violate the time-boxing, starting monologs (60 to 90 seconds per team member should be more than 
+      enough time on air).
+    > A few team members are commenting on every issue (usually, this is not just a waste of time, but also patronizing 
+      as well as annoying).
+    > Other team members are talking while someone is sharing his or her progress with the team (similarly irritating is 
+      the need to use speak tokens among adults to avoid this behavior). 
     > The product owner – or Scrum Master – assigns tasks directly to team members.
-    > Team members are not prepared for the stand-up (“I was doing some stuff, but I cannot remember what. Was important, though.”).
-    > The stand-up acts as a kind of artificial factory siren to start the next shift (this is a common Taylorism artifact where trust in the team is missing). 
-    > Team members are late to the stand-up (note: if the team did not choose the time for the stand-up it otherwise indicates distrust on the management side).
-    > Team members criticize other team members right away sparking a discussion instead of taking their critique outside the stand-up.
+    > Team members are not prepared for the stand-up (“I was doing some stuff, but I cannot remember what. Was important, 
+      though.”).
+    > The stand-up acts as a kind of artificial factory siren to start the next shift (this is a common Taylorism artifact 
+      where trust in the team is missing). 
+    > Team members are late to the stand-up (note: if the team did not choose the time for the stand-up it otherwise 
+      indicates distrust on the management side).
+    > Team members criticize other team members right away sparking a discussion instead of taking their critique outside 
+      the stand-up.
     > Stand-ups are ineffective due to the large number of active participants.
-    > “Chickens” actively participate in the stand-up. I think it is acceptable if stakeholders ask a question during the stand-up. However, they are otherwise supposed to merely listen in.
-    > Line managers are attending stand-ups to gather “performance data” on individual team members (this behavior is defying the very purpose of self-organizing teams).
+    > “Chickens” actively participate in the stand-up. I think it is acceptable if stakeholders ask a question during 
+      the stand-up. However, they are otherwise supposed to merely listen in.
+    > Line managers are attending stand-ups to gather “performance data” on individual team members (this behavior is 
+      defying the very purpose of self-organizing teams).
     
 See https://dzone.com/users/2650809/stefanwolpers.html
+
